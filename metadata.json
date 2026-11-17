@@ -1,0 +1,8 @@
+{
+  "name": "Remix School Contact Finder AI",
+  "description": "Upload Excel. Find School Numbers. Export Complete Data. AI-powered school contact discovery, website extraction, verification, and Excel enrichment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
